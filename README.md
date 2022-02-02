@@ -10,7 +10,7 @@
 ##### BIO
 
 - 🌱 Designed: [AdBot](https://discord.com/api/oauth2/authorize?client_id=925544021546393623&permissions=8&scope=bot)
-- 🔭 Learning all about **Wen Apps**
+- 🔭 Learning all about **Web Apps**
 - 📫 Reach me: Vam4L#1111 on Discord
 <!--
 **vamshiravula/vamshiravula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
