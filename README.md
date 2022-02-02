@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-### Hi there 👋
-
 #### I'm a Student Developer learning how to code.
 
 ##### NOW
