@@ -5,7 +5,7 @@
 ##### NOW
 
 - ✨ Working on AdBot: An innovative way to make passive money on Discord;
-- ⚡🇹 Advancing the hip-hop scene in India through my company, Rap India;
+- ⚡ Advancing the hip-hop scene in India through my company, Rap India
 
 ##### BIO
 
