@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+
+### Hi there 👋
+
+#### I'm a Student Developer learning how to code.
+
+##### NOW
+
+- ✨ Working on AdBot: An innovative way to make passive money on Discord;
+- ⚡🇹 Advancing the hip-hop scene in India through my company, Rap India;
+
+##### BIO
+
+- 🌱 Designed: [AdBot](https://discord.com/api/oauth2/authorize?client_id=925544021546393623&permissions=8&scope=bot)
+- 🔭 Learning all about **Wen Apps**
+- 📫 Reach me: Vam4L#1111 on Discord
 <!--
 **vamshiravula/vamshiravula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
