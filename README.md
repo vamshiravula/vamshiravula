@@ -13,6 +13,8 @@
 - 🔭 Learning all about **Web Apps**
 - 📫 Reach me: Vam4L#1111 on Discord
 
+##### CURRENT DISCORD STATUS
+
 ![discord](https://discord.c99.nl/widget/theme-4/709610174184423484.png)
 <!--
 **vamshiravula/vamshiravula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
