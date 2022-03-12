@@ -12,6 +12,8 @@
 - 🌱 Designed: [AdBot](https://discord.com/api/oauth2/authorize?client_id=925544021546393623&permissions=8&scope=bot)
 - 🔭 Learning all about **Web Apps**
 - 📫 Reach me: Vam4L#1111 on Discord
+
+![discord](https://discord.c99.nl/widget/theme-4/709610174184423484.png)
 <!--
 **vamshiravula/vamshiravula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
